@@ -1,0 +1,23 @@
+{
+  "name": "quiz-app",
+  "version": "1.0.0",
+  "description": "quiz app",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MariaSt13/quizApp.git"
+  },
+  "author": "Maria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MariaSt13/quizApp/issues"
+  },
+  "homepage": "https://github.com/MariaSt13/quizApp#readme"
+}

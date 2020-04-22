@@ -68,7 +68,7 @@ getNewQuestion = () => {
         //save score
         localStorage.setItem('recentScore', score);
         // go to end page
-        return window.location.assign("/end.html")
+        return window.location.assign("/end")
     }
     //update question number
     questionCounter++;
