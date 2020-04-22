@@ -1,0 +1,16 @@
+.highscore {
+    font-size: 2.3rem;
+}
+
+.highscore:hover {
+    transform: scale(1.025);
+}
+
+.score {
+    text-align: end;
+}
+
+#highScoreList {
+    margin-bottom: 4rem;
+    width: 20rem;
+}
